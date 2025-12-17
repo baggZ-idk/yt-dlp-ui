@@ -2,7 +2,7 @@
 ### By: baggZ
 
 ## Requirments
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Get from the link & put in same directory as yt-dlp-ui. All other requrements are that of yt-dlp itself
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Get from the link & put in same directory as yt-dlp-ui or put yt-dlp in the PATH environment table. All other requrements are that of yt-dlp itself
 
 ## How to use
 - Paste in the URL(link) of the video you want to download in the gray bar.
